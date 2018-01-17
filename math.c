@@ -15,7 +15,11 @@ float minus (float x, float y)
 { 
     return x - y;
 }
-
+/*This is for division*/
+float div (float x, float y)
+{ 
+    return x / y;
+}
 
     
     return 0;
