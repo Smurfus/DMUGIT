@@ -10,6 +10,11 @@ float multi (float x, float y)
 { 
     return x * y;
 }
+/*This is subtraction*/
+float minus (float x, float y)
+{ 
+    return x - y;
+}
 
 
     
